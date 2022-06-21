@@ -618,7 +618,7 @@ a:focus {
 
 .about_section {
   background: #222831;
-  color: #ffffff;
+  color: white;
 }
 
 .about_section .row {
@@ -639,7 +639,7 @@ a:focus {
 
 .about_section .img-box img {
   width: 100%;
-  max-width: 555px;
+  max-width: 455px;
   position: relative;
   z-index: 2;
 }
@@ -652,7 +652,7 @@ a:focus {
   display: inline-block;
   padding: 10px 45px;
   background-color: #ffbe33;
-  color: #ffffff;
+  color: white;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -714,7 +714,7 @@ a:focus {
   display: inline-block;
   padding: 10px 55px;
   background-color: #ffbe33;
-  color: #ffffff;
+  color: white;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
