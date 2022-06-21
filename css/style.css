@@ -312,6 +312,7 @@ a:focus {
 
 /*end header section*/
 /* slider section */
+
 .slider_section {
   -webkit-box-flex: 1;
       -ms-flex: 1;
@@ -638,7 +639,7 @@ a:focus {
 
 .about_section .img-box img {
   width: 100%;
-  max-width: 445px;
+  max-width: 555px;
   position: relative;
   z-index: 2;
 }
